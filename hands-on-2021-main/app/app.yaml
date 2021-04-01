@@ -1,0 +1,3 @@
+- keras_path: ../models/traffic_signs_2021-03-19_13-51-00.h5
+- IMAGE_WIDTH: 30
+- IMAGE_HEIGHT: 30
